@@ -48,7 +48,21 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ### * 项目展示：
 
-![avatar]()
+#### 首页
+
+![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weather.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weather1.png?raw=true)
+
+使用echarts插件：
+
+![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weather2.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/loading.png?raw=true)
+
+#### 选择城市查看天气情况
 
 
+
+![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weatherchoose.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/weatherchoose1.png?raw=true)
+
+#### 电影应用
+
+![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/video.png?raw=true)![avatar](https://github.com/NoelWtl/weather/blob/master/showPage/video1.png?raw=true)
 
